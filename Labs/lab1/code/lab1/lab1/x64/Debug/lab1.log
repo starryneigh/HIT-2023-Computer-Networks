@@ -1,0 +1,10 @@
+﻿  lab1.cpp
+E:\学习资料\课程资料\大三\大三上\计算机网络\实验\lab1\code\lab1\lab1\lab1.cpp(69,11): warning C4101: “dwThreadID”: 未引用的局部变量
+E:\学习资料\课程资料\大三\大三上\计算机网络\实验\lab1\code\lab1\lab1\lab1.cpp(135,16): warning C4566: 由通用字符名称“\u2F1D”表示的字符不能在当前代码页(936)中表示出来
+E:\学习资料\课程资料\大三\大三上\计算机网络\实验\lab1\code\lab1\lab1\lab1.cpp(220,87): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\学习资料\课程资料\大三\大三上\计算机网络\实验\lab1\code\lab1\lab1\lab1.cpp(186,11): warning C4101: “fp”: 未引用的局部变量
+E:\学习资料\课程资料\大三\大三上\计算机网络\实验\lab1\code\lab1\lab1\lab1.cpp(154,17): warning C4101: “clientAddr”: 未引用的局部变量
+E:\学习资料\课程资料\大三\大三上\计算机网络\实验\lab1\code\lab1\lab1\lab1.cpp(348,31): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\学习资料\课程资料\大三\大三上\计算机网络\实验\lab1\code\lab1\lab1\lab1.cpp(402,15): warning C4101: “out”: 未引用的局部变量
+E:\学习资料\课程资料\大三\大三上\计算机网络\实验\lab1\code\lab1\lab1\lab1.cpp(450,32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  lab1.vcxproj -> E:\学习资料\课程资料\大三\大三上\计算机网络\实验\lab1\code\lab1\x64\Debug\lab1.exe

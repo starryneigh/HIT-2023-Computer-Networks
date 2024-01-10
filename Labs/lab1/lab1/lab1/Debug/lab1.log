@@ -1,0 +1,9 @@
+﻿  源.cpp
+C:\Users\86151\Desktop\计算机网络\实验\lab1\lab1\lab1\源.cpp(69,11): warning C4101: “dwThreadID”: 未引用的局部变量
+C:\Users\86151\Desktop\计算机网络\实验\lab1\lab1\lab1\源.cpp(135,16): warning C4566: 由通用字符名称“\u2F1D”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\86151\Desktop\计算机网络\实验\lab1\lab1\lab1\源.cpp(186,11): warning C4101: “fp”: 未引用的局部变量
+C:\Users\86151\Desktop\计算机网络\实验\lab1\lab1\lab1\源.cpp(154,17): warning C4101: “clientAddr”: 未引用的局部变量
+C:\Users\86151\Desktop\计算机网络\实验\lab1\lab1\lab1\源.cpp(402,15): warning C4101: “out”: 未引用的局部变量
+C:\Users\86151\Desktop\计算机网络\实验\lab1\lab1\lab1\源.cpp(421,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86151\Desktop\计算机网络\实验\lab1\lab1\lab1\源.cpp(435,19): warning C4018: “<”: 有符号/无符号不匹配
+  lab1.vcxproj -> C:\Users\86151\Desktop\计算机网络\实验\lab1\lab1\Debug\lab1.exe
